@@ -1,4 +1,4 @@
 /.idea
 /venv
-/config.yml
+config.yml
 __pycache__
