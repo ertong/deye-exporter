@@ -1,0 +1,7 @@
+inverters:
+  - name: inv1
+    ip: 192.168.x.y
+    serial: 123
+  - name: inv2
+    ip: 192.168.x.y
+    serial: 1234
